@@ -1,5 +1,5 @@
 import math
-def isPermutation(firstWord, secondWord):00
+def isPermutation(firstWord, secondWord):
     first = firstWord
     second = secondWord
     sizeA = len(first)
